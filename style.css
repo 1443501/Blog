@@ -19,7 +19,7 @@ input
 {
 border: 1px solid #c7c7c7;
 padding-left: 0px;
-padding-right: 0px
+padding-right: 0px;
 float: none;
 }
 .travel_mainDiv img
@@ -47,4 +47,17 @@ width: 230px;
 }
 .movie_text span{
     color: #ff7700;
+}
+.news_li{
+    margin-top:13px;
+}
+.news_li h4{
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+.news_li img{
+    border-radius: 25px;
+}
+.news_li p{
+    margin-top:10px;
 }
